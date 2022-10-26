@@ -1,0 +1,254 @@
+[
+    {
+        "name": "World",
+        "href": "https://edition.cnn.com/world"
+    },
+    {
+        "name": "Africa",
+        "href": "https://edition.cnn.com/africa"
+    },
+    {
+        "name": "Americas",
+        "href": "https://edition.cnn.com/americas"
+    },
+    {
+        "name": "Asia",
+        "href": "https://edition.cnn.com/asia"
+    },
+    {
+        "name": "Australia",
+        "href": "https://edition.cnn.com/australia"
+    },
+    {
+        "name": "China",
+        "href": "https://edition.cnn.com/china"
+    },
+    {
+        "name": "Europe",
+        "href": "https://edition.cnn.com/europe"
+    },
+    {
+        "name": "India",
+        "href": "https://edition.cnn.com/india"
+    },
+    {
+        "name": "Middle East",
+        "href": "https://edition.cnn.com/middle-east"
+    },
+    {
+        "name": "United Kingdom",
+        "href": "https://edition.cnn.com/uk"
+    },
+    {
+        "name": "US Politics",
+        "href": "https://edition.cnn.com/politics"
+    },
+    {
+        "name": "The Biden Presidency",
+        "href": "https://edition.cnn.com/specials/politics/joe-biden-news"
+    },
+    {
+        "name": "Facts First",
+        "href": "https://edition.cnn.com/specials/politics/fact-check-politics"
+    },
+    {
+        "name": "2022 Midterms",
+        "href": "https://edition.cnn.com/election/2022"
+    },
+    {
+        "name": "Business",
+        "href": "https://edition.cnn.com/business"
+    },
+    {
+        "name": "Markets",
+        "href": "https://edition.cnn.com/markets"
+    },
+    {
+        "name": "Tech",
+        "href": "https://edition.cnn.com/business/tech"
+    },
+    {
+        "name": "Media",
+        "href": "https://edition.cnn.com/business/media"
+    },
+    {
+        "name": "Success",
+        "href": "https://edition.cnn.com/business/success"
+    },
+    {
+        "name": "Perspectives",
+        "href": "https://edition.cnn.com/business/perspectives"
+    },
+    {
+        "name": "Health",
+        "href": "https://edition.cnn.com/health"
+    },
+    {
+        "name": "Life, But Better",
+        "href": "https://edition.cnn.com/specials/health/life-but-better"
+    },
+    {
+        "name": "Fitness",
+        "href": "https://edition.cnn.com/specials/health/fitness-life-but-better"
+    },
+    {
+        "name": "Food",
+        "href": "https://edition.cnn.com/specials/health/food-life-but-better"
+    },
+    {
+        "name": "Sleep",
+        "href": "https://edition.cnn.com/specials/health/sleep-life-but-better"
+    },
+    {
+        "name": "Mindfulness",
+        "href": "https://edition.cnn.com/specials/health/mindfulness-life-but-better"
+    },
+    {
+        "name": "Relationships",
+        "href": "https://edition.cnn.com/specials/health/relationships-life-but-better"
+    },
+    {
+        "name": "Entertainment",
+        "href": "https://edition.cnn.com/entertainment"
+    },
+    {
+        "name": "Stars",
+        "href": "https://edition.cnn.com/entertainment/celebrities"
+    },
+    {
+        "name": "Screen",
+        "href": "https://edition.cnn.com/entertainment/movies"
+    },
+    {
+        "name": "Binge",
+        "href": "https://edition.cnn.com/entertainment/tv-shows"
+    },
+    {
+        "name": "Culture",
+        "href": "https://edition.cnn.com/entertainment/culture"
+    },
+    {
+        "name": "Media",
+        "href": "https://edition.cnn.com/business/media"
+    },
+    {
+        "name": "Tech",
+        "href": "https://edition.cnn.com/business/tech"
+    },
+    {
+        "name": "Innovate",
+        "href": "https://edition.cnn.com/specials/tech/innovate"
+    },
+    {
+        "name": "Gadget",
+        "href": "https://edition.cnn.com/specials/tech/gadget"
+    },
+    {
+        "name": "Foreseeable Future",
+        "href": "https://edition.cnn.com/specials/tech/foreseeable-future"
+    },
+    {
+        "name": "Mission: Ahead",
+        "href": "https://edition.cnn.com/specials/tech/mission-ahead"
+    },
+    {
+        "name": "Upstarts",
+        "href": "https://edition.cnn.com/specials/tech/upstarts"
+    },
+    {
+        "name": "Work Transformed",
+        "href": "https://edition.cnn.com/specials/tech/work-transformed"
+    },
+    {
+        "name": "Innovative Cities",
+        "href": "https://edition.cnn.com/specials/tech/innovative-cities"
+    },
+    {
+        "name": "Style",
+        "href": "https://edition.cnn.com/style"
+    },
+    {
+        "name": "Arts",
+        "href": "https://edition.cnn.com/style/arts"
+    },
+    {
+        "name": "Design",
+        "href": "https://edition.cnn.com/style/design"
+    },
+    {
+        "name": "Fashion",
+        "href": "https://edition.cnn.com/style/fashion"
+    },
+    {
+        "name": "Architecture",
+        "href": "https://edition.cnn.com/style/architecture"
+    },
+    {
+        "name": "Luxury",
+        "href": "https://edition.cnn.com/style/luxury"
+    },
+    {
+        "name": "Beauty",
+        "href": "https://edition.cnn.com/style/beauty"
+    },
+    {
+        "name": "Travel",
+        "href": "https://edition.cnn.com/travel"
+    },
+    {
+        "name": "Destinations",
+        "href": "https://edition.cnn.com/travel/destinations"
+    },
+    {
+        "name": "Food and Drink",
+        "href": "https://edition.cnn.com/travel/food-and-drink"
+    },
+    {
+        "name": "Stay",
+        "href": "https://edition.cnn.com/travel/stay"
+    },
+    {
+        "name": "News",
+        "href": "https://edition.cnn.com/travel/news"
+    },
+    {
+        "name": "Sports",
+        "href": "https://edition.cnn.com/sport"
+    },
+    {
+        "name": "Football",
+        "href": "https://edition.cnn.com/sport/football"
+    },
+    {
+        "name": "Tennis",
+        "href": "https://edition.cnn.com/sport/tennis"
+    },
+    {
+        "name": "Golf",
+        "href": "https://edition.cnn.com/sport/golf"
+    },
+    {
+        "name": "Olympics",
+        "href": "https://edition.cnn.com/specials/sport/beijing-winter-olympics-2022"
+    },
+    {
+        "name": "US Sports",
+        "href": "https://edition.cnn.com/specials/sport/us-sports"
+    },
+    {
+        "name": "Climbing",
+        "href": "https://edition.cnn.com/specials/climbing"
+    },
+    {
+        "name": "Motorsport",
+        "href": "https://edition.cnn.com/sport/motorsport"
+    },
+    {
+        "name": "Esports",
+        "href": "https://edition.cnn.com/specials/esports"
+    },
+    {
+        "name": "Investigations",
+        "href": "https://edition.cnn.com/specials/cnn-investigates"
+    }
+]
